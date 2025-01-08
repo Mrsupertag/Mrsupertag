@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding , food , games etc
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on software and app developers
-- 📫 How to reach me , contact me on discord Saadiq Alt#6380
+- 📫 How to reach me , contact me on discord, white_tunerr
 
 <!---
 Mrsupertag/Mrsupertag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
