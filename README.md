@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrsupertag
-- 👀 I’m interested in coding , food , games etc
+- 👀 I’m an UI engineer
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on software and app developers
 - 📫 How to reach me , contact me on discord, white_tunerr
